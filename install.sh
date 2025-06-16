@@ -247,8 +247,8 @@ tee config_template.py > /dev/null <<EOF
 # Configuration Template for Trading Bot
 # Copy this file to config.py and modify as needed
 
-TELEGRAM_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"
+TELEGRAM_TOKEN = "8145688023:AAHbPn6QgO1t7tQUnS2-kRx7FDoO0mr15tE"
+CHAT_ID = "6508600903"
 
 # Trading pairs to monitor
 SYMBOLS = [
